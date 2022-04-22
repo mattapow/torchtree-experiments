@@ -4,3 +4,4 @@ analysis
 golden
 *.nextflow*
 work
+*.log
