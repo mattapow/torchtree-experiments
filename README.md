@@ -15,5 +15,5 @@ conda install -c bioconda nextflow
 ## Run analysis
 From the ``torchtree-experiments`` directory run:
 ```bash
-nextflow run pipeline.nf
+nextflow run main.nf
 ```
